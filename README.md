@@ -1,6 +1,10 @@
 # Two Two tap
 
+[![Build Status](https://travis-ci.com/tvc12/twotwotap.svg?branch=master)](https://travis-ci.com/tvc12/twotwotap)
+
 A new Flutter project.
+
+
 
 ## Getting Started
 

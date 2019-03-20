@@ -1,9 +1,3 @@
-language: android
-android:
-  components:
-    - build-tools-26.0.2
-    - android-26
-    - extra
 os: linux
 sudo: false
 addons:
@@ -19,7 +13,7 @@ before_script:
   - flutter doctor
 script:
   - cd twotwotap
-  - flutter build apk
+  - flutter test
 cache:
   directories:
     - $HOME/.pub-cach
