@@ -1,3 +1,9 @@
+language: android
+android:
+  components:
+    - build-tools-26.0.2
+    - android-26
+    - extra
 os: linux
 sudo: false
 addons:
