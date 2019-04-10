@@ -27,3 +27,5 @@ cd twotwotap
 flutter run
 ```
 
+## Licences
+[Apache License 2.0](https://github.com/tvc12/twotwotap/blob/master/LICENSE)
